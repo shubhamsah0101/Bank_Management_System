@@ -1,5 +1,5 @@
 Hey Everyone,
-This is my first Project on Python GUI.
+This is my first Project on Python GUI and MySQL Database.
 
 Start Date :- 10-05-2023
 End Date :- 16-05-2023
