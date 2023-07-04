@@ -8,6 +8,14 @@ About This Project :-
 This Project is a Simple Demonstration on how a Bank Management Software works.
 It contains the Basic functionalities of an ATM like Checking of Current Balance, Changing PIN Number, Withdrawal and Deposit of Money, Transfer of Money to someone else A/C and To view Transection history of your A/C.
 
+For Sample use 
+A/C      PIN
+10001    1111
+10002    2222
+10003    3333
+10004    4444
+10005    5555
+
 Front-End of this project is made using Tkinter Module of Python Programming Language.
 
 The name of first and main window is "root", which asks the existing user to enter their A/C number and PIN number to access their A/C and perform the function required by them, and the New user to create their A/C. 
