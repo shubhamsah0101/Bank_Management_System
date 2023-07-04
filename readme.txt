@@ -49,6 +49,3 @@ r_acno		-	int
 transfer_amt	-	int
 balance		-	int
 
-
-token--
-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
