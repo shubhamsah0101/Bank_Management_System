@@ -26,4 +26,4 @@ Check out the project and my other electronics/software builds on my YouTube cha
 - https://youtu.be/IQ1bB7yhP9I?si=Xm4DAMeYEDhbSu51
 
 # Author
-Developed by Shubham Sah
+Developed by Shubham Kumar Sah
